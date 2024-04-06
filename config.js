@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
-// ES ➜ Agregué primero el número del Bot como prioridad
+// ES ➜ 573236625754 573236192285
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
@@ -26,7 +26,7 @@ global.prems = []
 global.botNumberCode = "" //example: "+59309090909"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 
-// ES ➜ Agregue el código de idioma el cual usará GataBot  
+// ES ➜ Español 
 // EN ➜ Add the language code which GataBot will use
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português 
